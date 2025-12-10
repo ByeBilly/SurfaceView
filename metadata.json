@@ -1,0 +1,7 @@
+{
+  "name": "SurfaceView Web",
+  "description": "Professional offline flooring visualization tool for tradespeople. Visualize carpet, tile, and plank flooring on site.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
